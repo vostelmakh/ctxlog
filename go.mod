@@ -1,4 +1,4 @@
-module ctxlog
+module github.com/vostelmakh/ctxlog
 
 go 1.24.2
 

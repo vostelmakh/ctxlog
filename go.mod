@@ -1,4 +1,4 @@
-module log
+module ctxlog
 
 go 1.24.2
 
